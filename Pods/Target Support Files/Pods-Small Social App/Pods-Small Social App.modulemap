@@ -1,0 +1,6 @@
+framework module Pods_Small_Social_App {
+  umbrella header "Pods-Small Social App-umbrella.h"
+
+  export *
+  module * { export * }
+}
