@@ -21,8 +21,8 @@ class PostsTableViewController: UITableViewController {
         self.posts = ["https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/IMG_0046%281%29.GIF",
                       "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/IMG_0044%283%29.GIF",
                       "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/IMG_0047%281%29.GIF",
-                      "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744214437360105142%281%29.jpg",
-                      "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744214437360105142.jpg",
+                      "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744215092546114532.jpg",
+                      "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744215092475303930.jpg",
                       "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744214435480065278.jpg"]
 //        NertworkManager.getPosts { [unowned self] (response) in
 //
@@ -41,8 +41,8 @@ class PostsTableViewController: UITableViewController {
         self.posts = ["https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/IMG_0046%281%29.GIF",
                       "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/IMG_0044%283%29.GIF",
                       "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/IMG_0047%281%29.GIF",
-                      "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744214437360105142%281%29.jpg",
-                      "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744214437360105142.jpg",
+                      "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744215092546114532.jpg",
+                      "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744215092475303930.jpg",
                       "https://skrumble-dev-assets.s3.amazonaws.com/chats/5b4cadeaf1ad970f5063416b/4744214435480065278.jpg"]
         self.tableView.reloadData()
         
